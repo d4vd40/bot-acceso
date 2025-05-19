@@ -1,0 +1,17 @@
+{
+  "name": "bot-acceso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.17.16",
+    "axios": "^1.9.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
