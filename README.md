@@ -28,3 +28,8 @@ Este proyecto es un bot construido con [Baileys](https://github.com/WhiskeySocke
 ```bash
 git clone https://github.com/TU_USUARIO/bot-acceso.git
 cd bot-acceso
+
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la **[Licencia MIT](LICENSE)**.  
+Puedes usarlo, modificarlo y distribuirlo libremente con atribución.
